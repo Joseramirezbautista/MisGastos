@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"C:\\\\Users\\\\Z2\\\\StudioProjects\\\\misgastos\\\\lib\\\\gasolina_page.dart\")",
+      "Bash(flutter analyze:*)",
+      "mcp__ide__getDiagnostics",
+      "Bash(where dart:*)",
+      "Bash(dart --version)",
+      "Bash(sqlite3:*)",
+      "Bash(flutter pub:*)",
+      "Bash(dart run:*)",
+      "Bash(flutter build:*)"
+    ]
+  }
+}
